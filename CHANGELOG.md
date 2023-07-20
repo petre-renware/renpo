@@ -2,7 +2,7 @@
 
 **RENware Main Portal**
 
-* Last released version: 0.6
+* Last released version: #FIXME what was the last one?
 
 ***
 
@@ -19,6 +19,12 @@
 
 ## ?? #FIXME new version on mkdpcs structure
 
+* tbd... create a `publishing` branch from `master` or as orphan...
+
+* tbd... get old **renpo** content (all Flask `static/` directory
+
+
+* 230720piu_a repo init phase one for new version of portal and a forst `publishing` branch was created and partial configured for publish site
 
 
 
