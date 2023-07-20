@@ -19,6 +19,8 @@
 
 ## ?? #FIXME new version on mkdpcs structure
 
+* tbd... first make a navigation structure as existing one. Important are: SPRILI, Contact with data from old portal
+
 * tbd... upd REN DNS & set custom domain for `publishing` branch
 
 * tbd... get old **renpo** content (all Flask `static/` directory
