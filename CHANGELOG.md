@@ -19,11 +19,13 @@
 
 ## ?? #FIXME new version on mkdpcs structure
 
-* tbd... create a `publishing` branch from `master` or as orphan...
+* tbd... upd REN DNS & set custom domain for `publishing` branch
 
 * tbd... get old **renpo** content (all Flask `static/` directory
 
 
+* 230720piu_c cleand `mkdocs.ym` of any navigation and setup to show topnav combined with leftnav menus
+* 230720piu_b get normal logo, maintenance pictures, wip_page.md
 * 230720piu_a repo init phase one for new version of portal and a forst `publishing` branch was created and partial configured for publish site
 
 
