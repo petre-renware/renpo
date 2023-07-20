@@ -56,7 +56,7 @@ theme:
     logo: pictures/REN_stamp_logo_transparent.png
     name: material
     features:
-        - navigation.tabs #NOTE left navigation side bar, all level 1 will be shown as top navigation bar
+        - navigation.tabs #NOTE level 2 on left navigation side bar, level 1 on top navigation bar
         - navigation.tracking
         - navigation.tabs.sticky
         - navigation.path
