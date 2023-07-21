@@ -32,6 +32,8 @@
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
+tbd... get SPRILI & GeTeCo PDF files from NAS
+
 
 * 230721piu_f extend navigation menu and made a first `buy_from_renware.md` page
 * 230721piu_e test on `index.md` page some grid cards - OK let them commented (HTML comment)
