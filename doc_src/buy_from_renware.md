@@ -4,7 +4,7 @@
 
 - If you decided for **a product** or **a solution** just make a call or send a message (e-mail, WhatsApp, SMS).
 
-- If you want resources for your own projects, please consult [SPRILI document](ready-made-docs/RENware SPRILI Standard Price List EN.pdf) <!-- #TODO set right document "RENware SPRILI Standard Price List EN.pdf" -->
+- If you want resources for your own projects, please consult [SPRILI document](./ready-made-docs/RENware SPRILI Standard Price List EN.pdf) <!-- #TODO set right document "RENware SPRILI Standard Price List EN.pdf" -->
 
 <!-- #FIXME mpre entres here ??? -->
 
