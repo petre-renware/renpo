@@ -11,7 +11,7 @@ RENware Software Systems assures the following type of services:
 * technical project management and software engineering
 
 
-A detailed list with computing science [competencies can be found here](competente.md).
+A detailed list with computing science [competencies (RO language) is available here](competente.md).
 
 
 
