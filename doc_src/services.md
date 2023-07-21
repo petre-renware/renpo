@@ -22,7 +22,7 @@ RENware Software Systems assures the following type of services:
 * **computers basic training** meaning *operating systems*, *computer architectures*, *networking*, *data structures and organization*, *basic networking protocols and infrastructure systems (DNS, ARP, LDAP, NFS, FTP, etc)*
 
 
-A more detailed look at some materials from courses already held can be found [at http//:learning.renware.eu](http//:learning.renware.eu).
+A more detailed look at some materials from courses already held can be found [at http://learning.renware.eu](http//:learning.renware.eu).
 
  
 
