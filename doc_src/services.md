@@ -28,6 +28,15 @@ RENware Software Systems assures the following type of services:
 
 ## Software development
 
+Software development is assured at all levels and usual and current languages.
+
+Also, there are "special" software development services dedicated to projects where legacy old languages are involved (Cobol, Fortran, and so on).
+
+Tipically these services are performed on a **time* & material** basis, but they can also be executed on **fixed price** basis.
+
+The SPRILI document offer more details regarding these services.
+
+
 -#TODO ...
 
 
