@@ -5,12 +5,17 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 nav:
     - Home: 'index.md' #NOTE main entry at whole RENware Software Systems portal
-    - old_index: 'old_index.html' #FIXME drop me when finish
+    - Solutions:
+        - ALPHA REN Integrator: 'http://arint.renware.eu'
+        - COSANA: 'http://cosana.renware.eu' #TODO chk page
+        - PM Office: 'http://pmo.renware.eu' #TODO chk page
+        - USALAS: 'http://uslas.renware.eu' #TODO chk page
     - Resources: #FIXME goes directly to first item from level 2 - WHY ???
         - 'SDEVEN methodology': 'http://sdeven.renware.eu'
-        - 'Buy from RENware': 'wip_page.md'
-        - 'Learning @ RENware': 'wip_page.md'
+        - 'Buy from RENware': 'buy_from_renware.md'
+        - 'Learning @ RENware': 'http://learning.renware.eu'
     - Contact: 'contact.md'
+    - old_index: 'old_index.html' #FIXME drop me when finish
 
 
 
