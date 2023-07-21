@@ -10,6 +10,7 @@ nav:
         - COSANA: 'http://cosana.renware.eu' #TODO chk page
         - PM Office: 'http://pmo.renware.eu' #TODO chk page
         - USALAS: 'http://uslas.renware.eu' #TODO chk page
+    - Services: 'services.md'
     - Resources: #FIXME goes directly to first item from level 2 - WHY ???
         - 'SDEVEN methodology': 'http://sdeven.renware.eu'
         - 'Buy from RENware': 'buy_from_renware.md'
