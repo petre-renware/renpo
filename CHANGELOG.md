@@ -17,9 +17,14 @@
 * -#NOTE ____ PUBLISHING IS MADE FROM `PUBLISHING` BRANCH, so wheen publish checkout it or upload from git
 </small>
 
-## ?? #FIXME new version on mkdpcs structure
 
-* tbd... first make a navigation structure as existing one. Important are: SPRILI, Contact with data from old portal
+## 5.0 RENpo on `mkdocs`
+
+
+### 5.0.1-beta portal skeleton (#FIXME wip...)
+
+
+* tbd... extend navigation structure as existing one.
 
 * tbd... upd REN DNS & set custom domain for `publishing` branch
 
@@ -28,7 +33,8 @@
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
 
-
+* 230721piu_c first draft of top level navigation. Important are: SPRILI, Contact with data from old portal
+* 230721piu_b make a first draft publish just for index file
 * 230721piu_a get the content of previous project in directory `old_portal_content/`
 * 230720piu_c cleand `mkdocs.ym` of any navigation and setup to show topnav combined with leftnav menus
 * 230720piu_b get normal logo, maintenance pictures, wip_page.md
