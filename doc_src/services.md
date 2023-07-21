@@ -11,6 +11,11 @@ RENware Software Systems assures the following type of services:
 * technical project management and software engineering
 
 
+A detailed list with computing science [competencies can be found here]().
+
+
+
+
 
 
 ## Training
@@ -37,7 +42,6 @@ Also, there are "special" software development services dedicated to projects wh
 Tipically these services are performed on a **time* & material** basis, but they can also be executed on **fixed price** basis.
 
 The [SPRILI document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf) offers more details regarding these services.
-
 
 
 
