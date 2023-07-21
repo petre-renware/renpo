@@ -5,6 +5,17 @@ page in construction
 
 RENware Software Systems assures the following type of services:
 
+* training
+* turn key software development
+* architectures and software design
+* technical project management and software engineering
+
+
+
+
+
+## Training
+
 * **software development training** in *Python 3*,*Rust*,*PHP*, and other general purpose languages 
 
 * **web development training** in and using *Flask*, *Django*, *Laravel* frameworks
