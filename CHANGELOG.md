@@ -33,6 +33,8 @@
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
 
+* wip... 230721piu_f extend navigation menu
+* 230721piu_e test on `index.md` page some grid cards - OK let them commented (HTML comment)
 * 230721piu_d made contacts page (`contact.md`) and redrawn `RENbackground fodg & svg` picture
 * 230721piu_c first draft of top level navigation. Important are: SPRILI, Contact with data from old portal
 * 230721piu_b make a first draft publish just for index file
