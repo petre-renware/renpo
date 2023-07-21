@@ -1,0 +1,30 @@
+<!-------------------------------------------------------------------------------------------------->
+<!-- java scripts                                                                                 -->
+<!-------------------------------------------------------------------------------------------------->
+<!-- UiKit core JavaScript -->
+<script> <!-- notifications -->
+    UIkit.notification({
+        message: 'my-message!',
+        status: 'primary',
+        pos: 'top-right',
+        timeout: 5000
+    });
+</script>
+
+<script> <!-- tooltips -->
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+</script>
+
+<script><!-- enable autofocus on REN modals -->
+    $('#RENmodalForm').on('show', function () {
+        $('input:text:visible:first').focus();
+    });
+</script>
+
+<script src="http://static.renware.eu/bootstraps/uikit/js/uikit.min.js"></script>
+<script src="http://static.renware.eu/bootstraps/uikit/js/uikit-icons.js"></script>
+
+<script src="http://static.renware.eu/bootstraps/bootstrap/3.4.1/js/scripts.js"></script>
+<script src="{{url_for('static', filename='scripts/scripts.js')}}"></script>

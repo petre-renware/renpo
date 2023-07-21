@@ -1,0 +1,48 @@
+{% extends "base/base.html" %}
+<!-------------------------------------------------------------------------------------------------->
+<!-- Container (Solutions Section)                                                                -->
+<!-------------------------------------------------------------------------------------------------->
+
+{% block breadcrumbs %}
+    <ol>
+        <li class="btn btn-danger btn-xs">SOLUTIONS</li>
+        {% for item in page_data %}
+        <a class="btn btn-primary btn-xs" href="#{{ item['section_ID'] }}">{{ item['section_sname'] }}</a>
+        {% endfor %}
+    </ol>
+{% endblock %}
+
+{% block head_content %}
+{% endblock %}
+
+{% block normal_content %}
+{% for item in page_data %}
+    <div id="{{ item['section_ID'] }}" class="container-fluid">
+        <br>
+        <h2 class="well well-sm bg-renmotifdark">{{ item['section_dname'] }}</h2>
+        <div class="row">
+            {% for categ_item in item['section_content_type1'] %}
+            <div class="col-sm-4 text-center">
+                <span class="glyphicon {{ categ_item['category_icon'] }} logo-small"></span>
+                <h4 class="well well-sm bg-renmotif"> <strong>{{ categ_item['category_name'] }}</strong></h4>
+                <ul class="list-group text-left">
+                    <li class="list-group-item">{{ categ_item['category_description'][0] }}</li>
+                    <li class="list-group-item">{{ categ_item['category_description'][1] }}</li>
+                    <li class="list-group-item">{{ categ_item['category_description'][2] }}</li>
+                </ul>
+                {% if categ_item['sub_categ_count_of_items'] == 0 or categ_item['sub_categ_count_of_items'] is none %}
+                    <a class="btn bg-renmotif btn-xs disabled" href="""">
+                        <span class="badge bg-renmotifdark">no item</span> See details...
+                    </a>
+                {% else %}
+                    {% set categ = item['section_dname'] + ' ' + categ_item['category_name'] %}
+                    <a class="btn bg-renmotif btn-xs" href={{ url_for(categ_item['category_link'], category = categ) }}>
+                        <span class="badge bg-renmotifdark">{{ categ_item['sub_categ_count_of_items'] }} item(s)</span> See details...
+                    </a>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+{% endblock %}

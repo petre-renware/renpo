@@ -1,0 +1,25 @@
+{% extends "base/base.html" %}
+
+{% block normal_content %}
+
+  <br><br><br><br>
+
+  <div role="navigation" class="container">
+
+    <ul class="nav nav-pills">
+      <li role="presentation" class="active"><a href="#ovw">Overview</a></li>
+      <li role="presentation" class="active"><a href="#lndsc">Landscape</a></li>
+      <li role="presentation" class="active"><a href="http://static.renware.eu/arintegrator/01-Overview.pdf">Overview PDF</a></li>
+      <li role="presentation" class="active"><a href="http://static.renware.eu/arintegrator/05-Landscape.pdf">Landscape PDF</a></li>
+    </ul>
+    <div id="ovw">
+      {% include 'arint/01-Overview.html' %}
+    </div>
+
+    <div id="lndsc">
+      {% include 'arint/05-Landscape.html' %}
+    </div>
+
+  </div>
+
+{% endblock %}

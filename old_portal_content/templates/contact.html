@@ -1,0 +1,52 @@
+{% extends "base/base.html" %}
+
+<!-------------------------------------------------------------------------------------------------->
+<!-- Container (Contact Section) -->
+<!-------------------------------------------------------------------------------------------------->
+
+{% block breadcrumbs %}
+{% endblock %}
+
+{% block head_content %}
+{% endblock %}
+
+{% block normal_content %}
+    <div id="contact" class="container-fluid bg-grey">
+        <h2 class="text-left well well-sm bg-renmotifdark">DATE LEGALE COMPANIE RENWARE</h2>
+        <div class="row container"><ul>
+            <li>Denumirea oficiala: REN-CONSULTING SOFT ACTIVITY SRL</li>
+            <li>CUI: 42561459</li>
+            <li>Atribut fiscal: RO</li>
+            <li>Nr Registrul comertului: ROONRC J40/5662/2020</li>
+            <li>Adresa sediu administrativ: Bucuresti, Sector 1, sos Nicolae Titulescu 81-87, bl 10, sc B, ap 58</li>
+        </ul></div>
+
+        <h2 class="text-center well well-sm bg-renmotifdark">CONTACT</h2>
+        <div class="row">
+        <div class="col-sm-5">
+            <img src="{{ url_for('static', filename='pictures/REN-location.png') }}" class="img-thumbnail" style="width:100%">
+            <p><span class="glyphicon glyphicon-map-marker"></span> RO, Bucharest 1, Nicolae Titulescu 81-87</p>
+            <p><span class="glyphicon glyphicon-phone"></span> +(40) 744-684.867, +(40) 311-079.610</p>
+            <p><span class="glyphicon glyphicon-envelope"></span> office@renware.eu, renware.systems@gmail.com</p>
+        </div>
+        <div class="col-sm-7">
+            <div class="row">
+            <div class="col-sm-6 form-group">
+                <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+            </div>
+            <div class="col-sm-6 form-group">
+                <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+            </div>
+            </div>
+            <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+            <div class="row">
+            <div class="col-sm-12 form-group">
+                <button class="btn btn-default pull-right" type="submit">Send</button>
+                <p><em>We enjoy to hear your opinion!</em></p>
+                <img src="{{ url_for('static', filename='pictures/REN-team-signature.png') }}" class="rounded" style="width:20%">
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+  {% endblock %}

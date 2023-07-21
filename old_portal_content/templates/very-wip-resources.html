@@ -1,0 +1,47 @@
+{% extends "base/base.html" %}
+<!-------------------------------------------------------------------------------------------------->
+<!-- About Section                                                                                -->
+<!-------------------------------------------------------------------------------------------------->
+
+{% block breadcrumbs %}
+    <ol>
+        <li class="btn btn-danger btn-xs">RESOURCES</li>
+        {% for item in page_data %}
+        <li class="btn bg-renmotifdark btn-xs"><a href="#{{ item['section_ID'] }}">{{ item['section_sname'] }}</a></li>
+        {% endfor %}
+    </ol>
+{% endblock %}
+
+{% block head_content %}
+{% endblock %}
+
+{% block normal_content %}
+    {% for item in page_data %}
+    <div id="{{ item['section_ID'] }}" class="container-fluid {% if loop.index is divisibleby(2) %} bg-grey{% endif %}">
+        <br>
+        <div class="row">
+            {% if loop.index is divisibleby(2) %}
+            <div class="col-sm-4 align-top">
+                <img src="{{ url_for('static', filename=item['section_pict']) }}" class="rounded" alt="{{ item['section_pict'] }}" width="350">
+            </div>
+            {% endif %}
+        <div class="col-sm-8">
+            <h2 class="well well-sm bg-renmotifdark">{{ item['section_dname'] }}</h2>
+            <h4>
+                {% set fisier = item['section_content_type1'] %}
+                {% include '%s' %fisier ignore missing %}
+            </h4>
+            <p>
+                {% set fisier = item['section_content_type2'] %}
+                {% include '%s' %fisier ignore missing %}
+            </p>
+        </div>
+            {% if not(loop.index is divisibleby(2)) %}
+            <div class="col-sm-4 align-top">
+                <img src="{{ url_for('static', filename=item['section_pict']) }}" class="rounded" alt="{{ item['section_pict'] }}" width="350">
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+{% endblock %}

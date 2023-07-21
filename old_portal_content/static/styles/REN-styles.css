@@ -1,0 +1,233 @@
+<style>
+body {
+  font: 400 15px Lato, sans-serif;
+  line-height: 1.8;
+  color: #818181;
+}
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  color: #303030;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.navbar {
+  margin: 0;
+  padding: 5px;
+  background-color: #69abe9;
+  color: #ffffff;
+  z-index: 9999;
+  border: 0;
+  font-size: 12px !important;
+  line-height: 1.42857143 !important;
+  letter-spacing: 8px, 8px;
+  border-radius: 0;
+  font-family: Montserrat, sans-serif;
+}
+.navbar li {
+  color: #ffffff !important;
+}
+.navbar a {
+  color: #ffffff !important;
+  background-color: #69abe9;
+  font-size: 12px;
+}
+.navbar-brand {
+  color: #ffffff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #5b9bd5 !important;
+  background-color: #ffffff !important;
+}
+.navbar-default .navbar-toggle {
+border-color: transparent;
+color: #ffffff !important;
+}
+
+.container-fluid {
+  padding-top: 60px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+}
+.bg-grey {
+  background-color: #f6f6f6;
+}
+.bg-renmotif {
+  background-color: #5b9bd5;
+  color: #ffffff;
+}
+.bg-renmotifdark {
+  background-color: #294d7c;
+  color: #ffffff;
+}
+.bg-renmotifattn {
+  background-color: #7c0321;
+  color: #ffffff;
+}
+.bg-renmotifpreview {
+  background-color: #226b10;
+  color: #ffffff;
+}
+.logo-small {
+  color: #5b9bd5;
+  font-size: 50px;
+}
+.logo {
+  color: #5b9bd5;
+  font-size: 200px;
+}
+.thumbnail {
+  padding: 0 0 15px 0;
+  border: none;
+  border-radius: 0;
+}
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
+}
+.carousel-control.right, .carousel-control.left {
+  background-image: none;
+  color: #5b9bd5;
+}
+.carousel-indicators li {
+  border-color: #5b9bd5;
+}
+.carousel-indicators li.active {
+  background-color: #5b9bd5;
+}
+.item h4 {
+  font-size: 19px;
+  line-height: 1.375em;
+  font-weight: 400;
+  font-style: italic;
+  margin: 70px 0;
+}
+.item span {
+  font-style: normal;
+}
+.panel {
+  border: 1px solid #5b9bd5;
+  border-radius:0 !important;
+  transition: box-shadow 0.5s;
+}
+.panel:hover {
+  box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+.panel-footer .btn:hover {
+  border: 1px solid #5b9bd5;
+  background-color: #fff !important;
+  color: #5b9bd5;
+}
+.jumbotron {
+  background-color: #69abe9;
+  color: #ffffff;
+  padding: 100px;
+  font-family: Montserrat, sans-serif;
+}
+.panel-heading {
+  color: white !important;
+  background-color: #5b9bd5 !important;
+  padding: 25px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.panel-footer {
+  background-color: white !important;
+}
+.panel-footer h3 {
+  font-size: 32px;
+}
+.panel-footer h4 {
+  color: #aaaaaa;
+  font-size: 14px;
+}
+.panel-footer .btn {
+  margin: 15px 0;
+  background-color: #5b9bd5;
+  color: #fff;
+}
+footer .glyphicon {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #5b9bd5;
+}
+.slideanim {visibility:hidden;}
+.slide {
+  animation-name: slide;
+  -webkit-animation-name: slide;
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  visibility: visible;
+}
+
+@keyframes slide {
+  0% {
+    opacity: 0;
+    transform: translateY(70%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+@-webkit-keyframes slide {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(70%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0%);
+  }
+}
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+  .btn-lg {
+    width: 100%;
+    margin-bottom: 35px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .logo {
+    font-size: 150px;
+  }
+}
+
+.crumbs ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+.crumb {
+  display: inline-block;
+}
+.crumb a::after {
+  display: inline-block;
+  color: #000;
+  content: '>';
+  font-size: 80%;
+  font-weight: bold;
+  padding: 0 3px;
+}
+
+bg-ren {
+  background-color: #69abe9;
+  color: #ffffff;
+}
+
+</style>
