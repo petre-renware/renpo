@@ -37,9 +37,6 @@ Tipically these services are performed on a **time* & material** basis, but they
 The [SPRILI document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf) offers more details regarding these services.
 
 
--#TODO ...
-
-
 
 
 
