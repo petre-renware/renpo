@@ -36,8 +36,8 @@ tbd... get GeTeCo PDF files from NAS
 
 
 
-* wip... 230721piu_h extend navigation menu, set entries only one level (1st) for `services` and made page `services.md`
-
+* 230721piu_i extend navigation menu, set entries only one level (1st) for `services` and made page `services.md`
+* 230721piu_h upload file `doc-src/competente.md` with most practiced company competencies
 * 230721piu_g upload SPRILI documents in `doc-src/ready-made-docs/` and updated `buy_from_renware.md` page
 * 230721piu_f extend navigation menu and made a first `buy_from_renware.md` page
 * 230721piu_e test on `index.md` page some grid cards - OK let them commented (HTML comment)
