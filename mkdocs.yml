@@ -10,11 +10,7 @@ nav:
         - 'SDEVEN methodology': 'http://sdeven.renware.eu'
         - 'Buy from RENware': 'wip_page.md'
         - 'Learning @ RENware': 'wip_page.md'
-    - Contact: 'wip_page.md'
-    
-
-
-
+    - Contact: 'contact.md'
 
 
 
@@ -40,6 +36,8 @@ markdown_extensions:
     - pymdownx.mark
     - pymdownx.tilde
     - def_list
+    - attr_list
+    - md_in_html
     - pymdownx.tasklist:
         custom_checkbox: true
 
