@@ -34,7 +34,7 @@ RENware Software Systems assures the following type of services:
 
 
 
-## architectures and software design
+## Architectures and software design
 
 -#TODO ...
 
