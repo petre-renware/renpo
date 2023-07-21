@@ -9,6 +9,8 @@ RENware Software Systems assures the following type of services:
 
 * **web development training** in and using *Flask*, *Django*, *Laravel* frameworks
 
-* 
+* **computers basic training** meaning *operating systems*, *computer architectures*, *networking*, *data structures and organization*, *basic networking protocols and infrastructure systems (DNS, ARP, LDAP, NFS, FTP, etc)*
+
+
 
 
