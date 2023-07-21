@@ -10,6 +10,7 @@ RENware Software Systems assures the following type of services:
 * architectures and software design
 * technical project management and software engineering
 
+A more detailed look at some materials from courses already held can be found [at http//:learning.renware.eu](http//:learning.renware.eu).
 
 
 
