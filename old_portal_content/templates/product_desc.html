@@ -1,0 +1,98 @@
+{% extends "base/base.html" %}
+
+{% block breadcrumbs %}
+    <ol>
+    {% for item in page_data %}
+        {% if loop.index == 1 %}
+            <li class="btn btn-danger btn-xs">{{ item['section_category'] }}</li>
+        {% endif %}
+
+        {% if item['project_released'] %}
+            <a class="btn btn-primary btn-xs" href="#{{ item['section_ID'] }}">{{ item['section_sname'] }}</a>
+        {% else %}
+            <a class="btn btn-warning btn-xs" href="#{{ item['section_ID'] }}">{{ item['section_sname'] }}</a>
+        {% endif %}
+    {% endfor %}
+    </ol>
+{% endblock %}
+
+{% block head_content %}
+{% endblock %}
+
+{% block normal_content %}
+<br>
+{% for item in page_data %}
+<div id="{{ item['section_ID'] }}" class="container-fluid">
+    <ul class="list-group"></ul>
+        {% if item['project_released'] %}
+            <h3 class="list-group-item bg-renmotifdark"><strong>{{ item['section_dname'] }}</strong></h3>
+        {% else %}
+            <h3 class="list-group-item bg-renmotifattn"><strong>{{ item['section_dname'] }}</strong> <em>(work in progress)</em></h3>
+        {% endif %}
+        <li class="list-group-item"><div class="row">
+            <div class="col-sm-1">
+                <img src="{{ url_for('static', filename=item['product_logo']) }}" class="rounded" alt="{{ item['product_logo'] }}" width="80">
+            </div>
+            <div class="col-sm-2">
+                <h5>{{ item['project_code_reg_no'] }} - <strong>{{ item['section_sname'] }}</strong> ({{ item['project_crt_version'] }})</h5>
+                {% if item['ext_portal'] == '' %}
+                    {% set data_sheet = 'http://static.renware.eu/data-sheets/' + item['section_content_type1'][0] %}
+                    <a class="btn bg-renmotif btn-xs" href="{{ data_sheet }}">Data sheet</a>
+                    {% set data_sheet = item['section_content_type1'][1] %}
+                    <a class="btn bg-renmotifpreview btn-xs" href="{{ item['section_content_type1'][1] }}">Demo...</a>
+                {% else %}
+                    <a class="btn bg-renmotif btn-xs" href="{{ item['ext_portal'] }}">Product portal...</a>
+                {% endif %}
+            </div>
+            {% if item['ext_portal'] == '' %}
+                <div class="col-sm-9 align-top">
+                    <h5><strong>Motivation & objectives:</strong><h5>
+                    <p>
+                        {% set fisier = item['section_content_type1'][2] %}
+                        {% include '%s' %fisier ignore missing %}
+                    </p>
+                </div>
+            {% else %}
+                <div class="col-sm-9 align-top">
+                    <h5>This product has a specialized portal. Please follow <a class="btn bg-renmotif btn-xs" href="{{ item['ext_portal'] }}">Product portal...</a> button to go there</h5>
+                </div>
+            {% endif %}
+        </div></li>
+        {% if item['ext_portal'] == '' %}
+            <li class="list-group-item"><div class="row">
+                <div class="col-sm-8">
+                    <h5><strong>Main features & functionalities:</strong><h5>
+                    {% set fisier = item['section_content_type1'][3] %}
+                    {% include '%s' %fisier ignore missing %}
+                </div>
+                <div class="col-sm-4">
+                    <h5><strong>Product roadmap:</strong></h5>
+                    {% set fisier = item['section_content_type1'][4] %}
+                    <h6>{% include '%s' %fisier ignore missing %}</h6>
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="row"><h5>
+                    <div class="col-sm-3"><strong>Edition</strong></div>
+                    <div class="col-sm-1"><strong>Op sys</strong></div>
+                    <div class="col-sm-1"><strong>License</strong></div>
+                    <div class="col-sm-1"><strong>Suport</strong></div>
+                    <div class="col-sm-3"><strong>Download</strong></div>
+                    <div class="col-sm-3"><strong>Manuals</strong></div>
+                </h5></div>
+                {% for edition_item in item['section_content_type2'] %}
+                    <div class="row"><h6>
+                        <div class="col-sm-3">{{ edition_item['product_edition_code'] }}</div>
+                        <div class="col-sm-1">{{ edition_item['product_opsysreq'] }}</div>
+                        <div class="col-sm-1">{{ edition_item['product_license'] }}</div>
+                        <div class="col-sm-1">{{ edition_item['product_support'] }}</div>
+                        <div class="col-sm-3"><a href="{{ edition_item['product_download'] }}">Download software...</a></div>
+                        <div class="col-sm-3"><a href="{{ edition_item['product_manuals'] }}">Download manuals...</a></div>
+                    </h6></div>
+                {% endfor %}
+            </li>
+        {% endif %}
+    </ul>
+</div>
+{% endfor %}
+{% endblock %}

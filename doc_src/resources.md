@@ -1,5 +1,4 @@
-
-# In construction or maintenance page
+# Resources
 
 
 ![in progress document](pictures/under_maintenance.png)

@@ -4,9 +4,28 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 
 nav:
-    - Home: 'index.md'
-    - lvl 1:
-        - lvl 2: 'index.md'
+    - Home: 'index.md' #NOTE main entry at whole RENware Software Systems portal
+    - Services: 'services.md'
+    - Solutions: #TODO need to make a page like for services - see also index.md
+        - Solutions: 'solutions.md'
+        - ALPHA REN Integrator: 'http://arint.renware.eu'
+        - COSANA: 'http://cosana.renware.eu' #TODO chk page
+        - PM Office: 'http://pmo.renware.eu' #TODO chk page
+        - USALAS: 'http://uslas.renware.eu' #TODO chk page
+    - Resources: #TODO need to make a page like for services - see also index.md
+        - Resources: 'resources.md'
+        - SDEVEN methodology: 'http://sdeven.renware.eu'
+        - Buy from RENware: 'buy_from_renware.md'
+        - Learning @ RENware: 'http://learning.renware.eu'
+    - Contact: 'contact.md'
+    #- old_index: 'old_index.html' #FIXME drop me when finish
+
+
+
+
+
+
+
 
 
 markdown_extensions:
@@ -25,6 +44,11 @@ markdown_extensions:
     - pymdownx.mark
     - pymdownx.tilde
     - def_list
+    - attr_list
+    - md_in_html
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.tasklist:
         custom_checkbox: true
 
@@ -40,14 +64,15 @@ extra_javascript:
 plugins:
     - search
     - include-markdown
-    #NOTE print site is not needed in `ren portal` project
+    #NOTE `print-site` is not needed in `ren portal` project
     # - print-site: #NOTE: put print-site to the bottom of the plugins that may might alter your site navigation (affect order of sections in generated HTML)
     #    add_to_navigation: true
     #    print_page_title: 'Full SDEVEN Manual'
     #    add_full_urls: true
     #    add_table_of_contents: true
-    - pdf-with-js:
-        enable: true
+    #NOTE `pdf-with-js` extension is not needed in RENware portal !!!
+    # - pdf-with-js:
+    #     enable: true
 
 
 
@@ -60,6 +85,7 @@ theme:
         - navigation.tracking
         - navigation.tabs.sticky
         - navigation.path
+        - toc.integrate #NOTE integrate TOC in left navbar
     palette:
         primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
     icon:

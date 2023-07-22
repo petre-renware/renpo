@@ -1,0 +1,72 @@
+
+<!-------------------------------------------------------------------------------------------------->
+<!-- main navbar component (U Ikit version)                                                       -->
+<!-------------------------------------------------------------------------------------------------->
+{% block topnav %}
+<div uk-sticky="sel-target: .uk-navbar; cls-active: uk-navbar-sticky">
+    <nav class="uk-navbar uk-background-primary uk-light bg-ren uk-padding-remove-vertical" uk-navbar="mode: click">
+        <a class="uk-navbar-item uk-logo" href="#">
+            <img src="{{ url_for('static', filename='pictures/REN stamp logo transparent.svg') }}" class="img-rounded" alt="RENware logo">
+        </a>
+        <a class="uk-navbar-toggle" uk-navbar-toggle-icon href="#"></a>
+
+        <div class="uk-navbar-left"></div>
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href={{ url_for('index') }}>HOME</a></li>
+                <li class="uk-active"><a href={{ url_for('about') }}>ABOUT</a></li>
+                <li class="uk-active">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">SOLUTIONS<span class="caret"></span></a>
+                    <ul class="dropdown-menu btn">
+                        <li class="uk-active"><a href="{{ url_for('arint') }}">Systems Integration - ALPHA-REN Integrator</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href="http://products.ren-pmo.renware.eu/">Project Management Offices</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href="http://products.uslas.renware.eu/">Business Serial numbers generator</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href="http://pridoco.renware.eu">Collenting, Storing & Processing Documents</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href={{ url_for('wip_uc_911') }}>Company Welness Control for Executive Level</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href={{ url_for('wip_uc_911') }}>Enterprise Document Management Implementation</a></li>
+                        <li class="uk-active"><a target="_blank" rel="noopener noreferrer" href="http://pmf.renware.eu/">Conducting Surveys, Opinion polls & Data forms</a></li>
+                        <!--ar fi de bagat incow cu pmforms-->
+                    </ul>
+                </li>
+                <li class="uk-active"><a href={{ url_for('solutions') }}>PRODUCTS Catalog</a></li>
+                
+                <li class="dropdown uk-active">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">SERVICES<span class="caret"></span></a>
+                    <ul class="dropdown-menu btn">
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Business Consultance & Implementation</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Products Intallation</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Infrastructure Care & Maintenance</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Security Audits & Enforce</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Training</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>On-Site / Personalized Coaching</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911')  }}>Project Management</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Custom Solutions Architecture & Design</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Solutions & Systems Evaluation</a></li>
+                        <li class="uk-active"><a href={{ url_for('wip_uc_911') }}>Software Development Policies</a></li>
+                    </ul>
+                </li>
+
+                <li class="uk-active"><a href={{ url_for('sprili') }}>BUY FROM RENWARE</a></li>
+
+                <li class="dropdown uk-active">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">RESOURCES<span class="caret"></span></a>
+                    <ul class="dropdown-menu btn">
+                        <li><a target="_blank" rel="noopener noreferrer" href="http://study.renware.eu/articles_directory">REN Software - Articles & Knowledge</a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="http://static.renware.eu/sdeven">REN Software - SDEVEN Dev & Eng Methodology</a></li>
+                        <li><a target="_blank" rel="noopener noreferrer" href="http://static.renware.eu/sdeven/docs/SDEVEN_content/SDEVEN.75_RENCC">REN Software - Code of Conduct</a></li>
+                        <li><a href="#"------</a></li>
+                        <li><a href={{ url_for('wip_uc_911') }}>REN Community</a></li>
+                        <li><a href={{ url_for('wip_uc_911') }}>REN Partnerships Program</a></li>
+                        <li><a href={{ url_for('wip_uc_911') }}>Our Ecosystem Inside REN</a></li>
+                        <li><a href={{ url_for('wip_uc_911') }}>Software Architect / Software Engineer REN Magazine</a></li>
+                    </ul>
+                </li>
+                <li class="uk-active"><a href={{ url_for('contact') }}>CONTACT</a></li>
+            </ul>
+
+        <div class="uk-navbar-right"></div>
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href={{ url_for('myrenboard') }}>my-REN.board</a></li>
+            </ul>
+    </nav>
+</div>
+{% endblock %}

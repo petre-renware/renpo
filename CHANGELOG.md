@@ -14,16 +14,54 @@
 
 * For version code structure meaning see SDEVEN methodology document (*sic !*) :).
 * with (F) are marked those changes that are features in order to be copied in a RELNOTE file
-* -#NOTE ____ PUBLISHING IS MADE FROM `PUBLISHING` BRANCH, so wheen publish checkout it or upload from git
+* -#NOTE ____ PUBLISHING IS MADE ON `www.renware.eu`:
+    * FROM `PUBLISHING` BRANCH, so wheen publish checkout it or upload from git
 </small>
 
-## ?? #FIXME new version on mkdpcs structure
-
-* tbd... upd REN DNS & set custom domain for `publishing` branch
-
-* tbd... get old **renpo** content (all Flask `static/` directory
 
 
+
+
+## 5.0 RENpo on `mkdocs`
+
+
+### 5.0.1-beta portal skeleton (#FIXME wip...)
+
+* tbd... update contacts with "live Google map" as
+  ```
+  https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
+  ```
+
+* tbd... extend navigation structure as existing one.
+
+* tbd... -#NOTE there is a plugin to load / read JSON files
+
+* tbd... get GeTeCo PDF files from NAS
+
+* tbd... Solutions: do that page (`solutions.md`)
+* tbd... Resources: do that page (`resources.md`) - it's the simplest
+
+
+
+
+
+
+
+
+### 5.0.0-beta first acceptable published release (230722 16:45)
+
+* 230722piu_c prepared `mkdocs.yml` & `index.md` for a future dedicated page for navbar items: Resources, Solutions
+* 230722piu_b finalize & close `services` page
+* 230722piu_a work improvements on `services` and `index` pages
+* 230721piu_i extend navigation menu, set entries only one level (1st) for `services` and made page `services.md`
+* 230721piu_h upload file `doc-src/competente.md` with most practiced company competencies
+* 230721piu_g upload SPRILI documents in `doc-src/ready-made-docs/` and updated `buy_from_renware.md` page
+* 230721piu_f extend navigation menu and made a first `buy_from_renware.md` page
+* 230721piu_e test on `index.md` page some grid cards - OK let them commented (HTML comment)
+* 230721piu_d made contacts page (`contact.md`) and redrawn `RENbackground fodg & svg` picture
+* 230721piu_c first draft of top level navigation. Important are: SPRILI, Contact with data from old portal
+* 230721piu_b make a first draft publish just for index file
+* 230721piu_a get the content of previous project in directory `old_portal_content/`
 * 230720piu_c cleand `mkdocs.ym` of any navigation and setup to show topnav combined with leftnav menus
 * 230720piu_b get normal logo, maintenance pictures, wip_page.md
 * 230720piu_a repo init phase one for new version of portal and a forst `publishing` branch was created and partial configured for publish site
