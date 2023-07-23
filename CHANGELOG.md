@@ -43,6 +43,8 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tbd... in `services.md` make competencies a dostinct chapter where refer file... or include it to directly bring it from top menu through Services entry
 
+* tbd... how to buy from renware should be moved in services page or a distinct top entry but IN RESOURCES as now is a wrong place...
+
 * tbd... upd `index.md` page change in tile worg "when" with "where" (as published now, ... changed on the fly)
 
 
