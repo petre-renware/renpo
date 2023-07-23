@@ -83,6 +83,7 @@ theme:
         - navigation.tabs.sticky
         - navigation.path
         - toc.integrate #NOTE integrate TOC in left navbar
+        - navigation.footer
     palette:
         primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
     icon:
@@ -100,6 +101,17 @@ theme:
             example: fontawesome/solid/flask
             quote: fontawesome/solid/quote-left
 
+
+
+#NOTE first is for social sites RENware links and can add other data here
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/renware/
+      name: RENware on LinkedIn
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=100063714751973
+      name: RENware on Facebook
 
 
 
