@@ -1,6 +1,6 @@
 
 
-# RENware Software Systems<small><small><small markdown> when *computers are made to help us...*</small></small></small>
+# RENware Software Systems<small><small><small markdown> where *computers are made to help us...*</small></small></small>
 
 
 ![ren background picture](./pictures/RENbackground.svg){ width="1000" }
