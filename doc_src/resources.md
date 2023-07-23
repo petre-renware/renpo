@@ -1,6 +1,7 @@
-# Resources
 
-![our values pict](pictures/our-values.jpg)
+![our values pict](pictures/our-values.jpg){ width="400" align=right }
+
+# Resources
 
 Here you can find most useful company resources. These are:
 

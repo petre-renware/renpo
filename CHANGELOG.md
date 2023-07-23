@@ -42,8 +42,8 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 * tbd... Solutions: do that page (`solutions.md`)
 
 
-* -#FIXME_urg... publish & test for 230723piu_c & 230723piu_d closed issues
 
+* 230723piu_e adjust / facelifts, cleanups, test for 230723piu_c & 230723piu_d closed issues & **publish** portal
 * 230723piu_d decorated `services.md` page with `software_1280.jpg` picture
 * 230723piu_c decorated `resources.md` page with `our-values.jpg` picture
 * 230723piu_b Resources: made page (`resources.md`) content

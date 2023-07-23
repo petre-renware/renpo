@@ -1,9 +1,12 @@
 
-# RENware Software Systems
+
+# RENware Software Systems<small><small><small markdown> when *computers are made to help us...*</small></small></small>
+
+
+![ren background picture](./pictures/RENbackground.svg){ width="1000" }
 
 
 
-![ren background picture](./pictures/RENbackground.svg){ width="850"}
 
 
 [:office_worker: Services](services.md){ .md-button .md-button--primary }
