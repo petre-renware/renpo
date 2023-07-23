@@ -40,7 +40,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tdb... About: do that page (`about.md`)
 * tbd... Solutions: do that page (`solutions.md`)
-
+* tbd... upd `index.md` page change in tile worg "when" with "where" (as published now, ... changed on the fly)
 
 
 * 230723piu_e adjust / facelifts, cleanups, test for 230723piu_c & 230723piu_d closed issues & **publish** portal
