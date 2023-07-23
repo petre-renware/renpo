@@ -43,6 +43,7 @@
 
 
 
+* 230723piu_c decorated `resources.md` page with `our-values.jpg` picture
 * 230723piu_b Resources: made page (`resources.md`) content
 * 230723piu_a made a scratch `about.md` page & add "About" entry in top navigation and `index.md` home page and more small improvements in `services.md`, `index.md` pages
 

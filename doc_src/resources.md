@@ -1,5 +1,7 @@
 # Resources
 
+![our values pict](pictures/our-values.jpg)
+
 Here you can find most useful company resources. These are:
 
 - [SDEVEN methodology](#sdeven-methodology)
