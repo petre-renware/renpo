@@ -4,19 +4,20 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 
 nav:
-    - Home: 'index.md' #NOTE main entry at whole RENware Software Systems portal
+    - Home: 'index.md'
     - Services: 'services.md'
-    - Solutions: #TODO need to make a page like for services - see also index.md
+    - Solutions:
         - Solutions: 'solutions.md'
         - ALPHA REN Integrator: 'http://arint.renware.eu'
-        - COSANA: 'http://cosana.renware.eu' #TODO chk page
-        - PM Office: 'http://pmo.renware.eu' #TODO chk page
-        - USALAS: 'http://uslas.renware.eu' #TODO chk page
-    - Resources: #TODO need to make a page like for services - see also index.md
+        - COSANA: 'http://cosana.renware.eu'
+        - PM Office: 'http://pmo.renware.eu'
+        - USALAS: 'http://uslas.renware.eu'
+    - Resources:
         - Resources: 'resources.md'
         - SDEVEN methodology: 'http://sdeven.renware.eu'
         - Buy from RENware: 'buy_from_renware.md'
         - Learning @ RENware: 'http://learning.renware.eu'
+    - About: 'about.md'
     - Contact: 'contact.md'
     #- old_index: 'old_index.html' #FIXME drop me when finish
 

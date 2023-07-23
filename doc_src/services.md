@@ -33,13 +33,15 @@ A more detailed look at some materials from courses already held can be found [a
 ---
 ## Software development
 
-**Software development** is assured at all levels and usual and current languages.
+Software development is assured at all levels using *usual and current languages* (specifically as project or customer requirement).
+
+**All items listed in section ["Architectures and software design"](#architectures-and-software-design) are subject to software development services by request**.
 
 Also, there are "special" software development services dedicated to projects where legacy old languages are involved (Cobol, Fortran, and so on).
 
-Tipically these services are performed on a **time & material** basis, but they can also be executed on **fixed price** basis.
+Topically these services are performed on a **time & material** basis, but they can also be executed on **fixed price** basis.
 
-The [SPRILI document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf) offers more details regarding these services.
+The [SPRILI <small>(STandard PRice LIst)</small> document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf) offers more details regarding these services.
 
 
 
