@@ -1,6 +1,6 @@
 # Services
 
-
+![codind pict](pictures/software_1280.jpg)
 
 RENware Software Systems assures the following type of services:
 
