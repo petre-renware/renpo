@@ -36,16 +36,14 @@
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
-* tbd... get GeTeCo PDF files from NAS
+* tbd... get GeTeCo PDF files from NAS (ref doc `resources.md` section "How to buy from RENware", search for `#TODO set right document "GTCo-RO.pdf"`)
 
 * tdb... About: do that page (`about.md`)
 * tbd... Solutions: do that page (`solutions.md`)
-* tbd... Resources: do that page (`resources.md`) - it's the simplest
 
 
 
-
-
+* 230723piu_b Resources: made page (`resources.md`) content
 * 230723piu_a made a scratch `about.md` page & add "About" entry in top navigation and `index.md` home page and more small improvements in `services.md`, `index.md` pages
 
 

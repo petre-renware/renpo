@@ -12,11 +12,7 @@ nav:
         - COSANA: 'http://cosana.renware.eu'
         - PM Office: 'http://pmo.renware.eu'
         - USALAS: 'http://uslas.renware.eu'
-    - Resources:
-        - Resources: 'resources.md'
-        - SDEVEN methodology: 'http://sdeven.renware.eu'
-        - Buy from RENware: 'buy_from_renware.md'
-        - Learning @ RENware: 'http://learning.renware.eu'
+    - Resources: 'resources.md'
     - About: 'about.md'
     - Contact: 'contact.md'
     #- old_index: 'old_index.html' #FIXME drop me when finish
