@@ -32,7 +32,6 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
   https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
   ```
 
-* tbd... extend navigation structure as existing one.
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
@@ -41,10 +40,10 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 * tdb... About: do that page (`about.md`)
 * tbd... Solutions: do that page (`solutions.md`)
 
-* tbd... in `services.md` make competencies a distinct chapter where refer file... or include it to directly bring it from top menu through Services entry
 
-
-* 230724piu_a disabled footer "Prev - Next" navigation that is not usefull for a company portal
+* 230724piu_c add in `index.md` page a "quick links" section to quick / direct access to important areas
+* 230724piu_b clean `competente.md` page and embed it in `services.md` page as header
+* 230724piu_a disabled footer "Prev - Next" navigation that is not useful for a company portal
 * 230723piu_h changed facelift of `services` page
 * 230723piu_g set on footer the social sites links for RENware company
 * 230723piu_f upd `index.md` page change in tile word "when" with "where"

@@ -14,13 +14,6 @@ RENware Software Systems assures the following type of services:
 
 
 
-## [Competencies](competente.md)
-
-A detailed list with computing science [competencies (RO language) is available here](competente.md).
-
-
-
-
 ## Training
 
 * **software development training** in *Python 3*,*Rust*,*PHP*, and other general purpose languages
@@ -136,6 +129,13 @@ _Systems designed to assure different security services like:_
 
 Any kind of **technical project management** (project based, team leads, etc) for software development and implementation activities. Also **software engineering** or just advice on software engineering issues.
 
+
+
+
+
+## Competencies
+
+{% include 'competente.md' ignore missing %}
 
 
 
