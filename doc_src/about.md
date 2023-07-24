@@ -71,12 +71,3 @@ commercial & contracts follow-up, technical support assistants, financial operat
 
 
 
-
-
-<<! -#FIXME drop me when rdy -->
-![in progress document](pictures/under_maintenance.png)
-
-<br><br><br><br>
-<small markdown>*acesta pagina este in constructie*</small>
-
-<<! -#FIXME drop me when rdy -->
