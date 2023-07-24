@@ -1,4 +1,21 @@
+
+<!-- #FIXME think if put something here
+![coding pict](pictures/software_1280.jpg){ width="400" align=right }
+-->
+
+
 # About
+
+
+RENware is a ...tbd...
+
+
+
+## Competencies
+
+
+
+
 
 
 ![in progress document](pictures/under_maintenance.png)
