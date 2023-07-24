@@ -44,6 +44,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 * tbd... in `services.md` make competencies a distinct chapter where refer file... or include it to directly bring it from top menu through Services entry
 
 
+* 230724piu_a disabled footer "Prev - Next" navigation that is not usefull for a company portal
 * 230723piu_h changed facelift of `services` page
 * 230723piu_g set on footer the social sites links for RENware company
 * 230723piu_f upd `index.md` page change in tile word "when" with "where"
