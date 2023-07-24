@@ -45,7 +45,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 ### 5.0.1-beta all nav stable all pages acceptable (wip...)
 
-* wip... 230724piu_d About: do that page (`about.md`)
+* wip... 230724piu_d About: made page (`about.md`) content
 
 * 230724piu_c add in `index.md` page a "quick links" section to quick / direct access to important areas
 * 230724piu_b clean `competente.md` page and embed it in `services.md` page as header
