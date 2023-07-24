@@ -10,7 +10,7 @@
 
 **RENware** was established in 2020 as software development company. Then it extended the activity portfolio to systems integration, architectures design, software engineering, IT projects management, infrastructure systems and more, following its [competencies list](services.md#competencies).
 
-Now **RENware Software Systems** is a place of innovative and enthusiastic people which dedicated much of their time to research, study and research.
+**RENware Software Systems** is a place of innovative and enthusiastic people that like to dedicate part of their time to research, study, research and growth their knowledge in computing industry.
 
 It is a place for all those who love their work and what they do. It is a place for all those who want to share a respectable conduit and a honour code related to computer domains being hardware, software, networking, security, and so on.
  
