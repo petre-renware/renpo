@@ -6,15 +6,24 @@
 
 # About
 
-## ...About file 1...
+## ...About c1 file...
 
 <strong>RENware</strong> is company established officialy in 2020 but with a team with more years of experience and work in computing engineering industry.  
 
 
-## ...About file 2...
+## ...About c2 file...
 
 (and you'll find all details about them), all <em>third party items</em>, like licenses, servicies or subscriptions required (or buy them yourself) and so on. 
  <br><br> 
+
+
+## ...Our vison file...
+
+</h5> 
+ <h4><br>We belive that adding value is a very valuable process.<br>We belive that education for creativity is a very valuable asset. 
+ <br>We belive that creating a vision and a story about an idea is realy faith in it. 
+ <br>Our vision is to create useful & free software. Our vision is to create useful & scalable systems.</h4>
+
 
 
 
