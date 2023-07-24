@@ -13,7 +13,8 @@
 
 ## ...About file 2...
 
-tbd...
+(and you'll find all details about them), all <em>third party items</em>, like licenses, servicies or subscriptions required (or buy them yourself) and so on. 
+ <br><br> 
 
 
 
