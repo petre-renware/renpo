@@ -37,9 +37,11 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tbd... get GeTeCo PDF files from NAS (ref doc `resources.md` section "How to buy from RENware", search for `#TODO set right document "GTCo-RO.pdf"`)
 
-* tdb... About: do that page (`about.md`)
 * tbd... Solutions: do that page (`solutions.md`)
 
+
+
+* wip... 230724piu_d About: do that page (`about.md`)
 
 * 230724piu_c add in `index.md` page a "quick links" section to quick / direct access to important areas
 * 230724piu_b clean `competente.md` page and embed it in `services.md` page as header
