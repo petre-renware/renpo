@@ -6,8 +6,15 @@
 
 # About
 
+## ...About file 1...
 
-RENware is a ...tbd...
+<strong>RENware</strong> is company established officialy in 2020 but with a team with more years of experience and work in computing engineering industry.  
+
+
+## ...About file 2...
+
+tbd...
+
 
 
 
