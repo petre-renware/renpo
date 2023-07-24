@@ -18,9 +18,17 @@ honour code regarding of what means all it's related to computer hardware, softw
 
 ## ...About c2 file...
 
-(and you'll find all details about them), all <em>third party items</em>, like licenses, servicies or subscriptions required (or buy them yourself) and so on. 
- <br><br> 
-
+<br>Our 'Honour code of conduct' is a free document who can be studied by anyone.
+<br><br>
+Most of our software products are simply freeware, mostly beig MIT licensed. 
+Even if a software product is not listed as "freeware", for sure you'll find a community license available for it. 
+What you will need to pay for are <em>services</em> where human manpower is required, all /em>materials</em> which must be bought 
+(and you'll find all details about them), all <em>third party items</em>, like licenses, servicies or subscriptions required (or buy them yourself) and so on.
+<br><br>
+Our knowledge relates to distributed systems and architectures, IT project management, systems implementation, engineering and architectures, simple applications or 
+complex systems, embedded systems and all mostly known IoT 'gadgets', applications and development boards (Arduino, ESP, Py..., Raspberry, and so on). We love to combine 
+analog electronic with digital one, from simple 'learning LEDs' to analog signals pattern recognition.<br>
+<img src="{{ url_for('static', filename='pictures/REN-team-signature.png') }}" class="rounded" style="width:10%"> 
 
 
 ## ...Our vison file...
