@@ -43,7 +43,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 
 
-### 5.0.1-beta all nav stable all pages acceptable (wip...)
+### wip... 5.0.1-beta all nav stable all pages acceptable (yymmdd...)
 
 * wip... 230724piu_d About: made page (`about.md`) content
 
