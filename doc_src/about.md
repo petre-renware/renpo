@@ -28,7 +28,7 @@
 
 
 
-## ...Cluster c1 file...
+## ...The cluster c1 file...
 
 <br> 
  Peoples (alphabetical order): 
@@ -36,9 +36,9 @@
 
 
 
-## ...Cluster c2 file...
+## ...The cluster c2 file...
 
-xxx
+as happy as they want. Is just their personal option how to work and contribute. They are treated like any other people of the team. There is no difference. By respecting our 'code of cunduit and conduct' 
 
 
 
