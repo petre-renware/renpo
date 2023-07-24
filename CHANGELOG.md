@@ -45,8 +45,9 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 ### wip... 5.0.1-beta all nav stable all pages acceptable (yymmdd...)
 
-* tbd... clean & finalize `about` page
-* wip... 230724piu_e first review & clean `about` page
+* tbd... review & clean `about` page, section "..."
+
+* 230724piu_e first review & clean `about` page, section "Overview"
 * 230724piu_d About: made a first *draft raw* page (`about.md`) content. Got from old content following pictures: `compass.jpg, people.jpg, reducing_conflict.png, success_people.jpg`
 
 * 230724piu_c add in `index.md` page a "quick links" section to quick / direct access to important areas
