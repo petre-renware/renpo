@@ -83,7 +83,7 @@ theme:
         - navigation.tabs.sticky
         - navigation.path
         - toc.integrate #NOTE integrate TOC in left navbar
-        - navigation.footer
+        #- navigation.footer #NOTE do not enable this. It will show "Next & Prev" links on footer, useless for company portal...
     palette:
         primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
     icon:
