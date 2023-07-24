@@ -11,10 +11,12 @@
 <strong>RENware</strong> is company established officialy in 2020 but with a team with more years of experience and work in computing engineering industry.  
 
 
+
 ## ...About c2 file...
 
 (and you'll find all details about them), all <em>third party items</em>, like licenses, servicies or subscriptions required (or buy them yourself) and so on. 
  <br><br> 
+
 
 
 ## ...Our vison file...
@@ -25,6 +27,18 @@
  <br>Our vision is to create useful & free software. Our vision is to create useful & scalable systems.</h4>
 
 
+
+## ...Cluster c1 file...
+
+<br> 
+ Peoples (alphabetical order): 
+ <li><strong>Alina MACNEA</strong> - Software Development Systems</li> 
+
+
+
+## ...Cluster c2 file...
+
+xxx
 
 
 
