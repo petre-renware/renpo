@@ -25,21 +25,28 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 ## 5.0 RENpo on `mkdocs`
 
 
-### 5.0.1-beta portal skeleton (#FIXME wip...)
+### #TODO ---- SHORT TERM ACTION PLAN
 
 * tbd... update contacts with "live Google map" as
-  ```
+```
   https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
-  ```
+```
 
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
 * tbd... get GeTeCo PDF files from NAS (ref doc `resources.md` section "How to buy from RENware", search for `#TODO set right document "GTCo-RO.pdf"`)
 
-* tdb... About: do that page (`about.md`)
 * tbd... Solutions: do that page (`solutions.md`)
 
+
+
+
+
+### wip... 5.0.1-beta all nav stable all pages acceptable (yymmdd...)
+
+* tbd... clean & finalize `about` page
+* 230724piu_d About: made a first *draft raw* page (`about.md`) content. Got from old content following pictures: `compass.jpg, people.jpg, reducing_conflict.png, success_people.jpg`
 
 * 230724piu_c add in `index.md` page a "quick links" section to quick / direct access to important areas
 * 230724piu_b clean `competente.md` page and embed it in `services.md` page as header
