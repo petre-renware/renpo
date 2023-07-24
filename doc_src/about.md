@@ -8,6 +8,8 @@
 
 ## ...About c1 file...
 
+<!-- #FIXME review and then drop... -->
+
 <strong>RENware</strong> is company established officialy in 2020 but with a team with more years of experience and work in computing engineering industry. 
 <strong>RENware</strong> is not a company itself but is a cluster of more enthuzistic companies, more of them being small companies or freelancer registrations. 
 <strong>RENware</strong> is a cluster (or group if you like to name it so) of innovative and enthusiastic people which dedicated much of their time to research, study and research.
@@ -16,7 +18,11 @@
 honour code regarding of what means all it's related to computer hardware, software, networking, security, and so on.
 
 
+
+
 ## ...About c2 file...
+
+<!-- #FIXME review and then drop... -->
 
 <br>Our 'Honour code of conduct' is a free document who can be studied by anyone.
 <br><br>
@@ -31,7 +37,11 @@ analog electronic with digital one, from simple 'learning LEDs' to analog signal
 <img src="{{ url_for('static', filename='pictures/REN-team-signature.png') }}" class="rounded" style="width:10%"> 
 
 
+
+
 ## ...Our vison file...
+
+<!-- #FIXME review and then drop... -->
 
 <h4>INNOVATION. CREATIVITY. ADD & SHARE VALUE.</h4>
 <h5>
@@ -43,7 +53,11 @@ analog electronic with digital one, from simple 'learning LEDs' to analog signal
 <br>Our vision is to create useful & free software. Our vision is to create useful & scalable systems.</h4>
 
 
+
+
 ## ...The cluster c1 file...
+
+<!-- #FIXME review and then drop... -->
 
 _                Our team are our cluster partners. We are a team and we are partners. Some of us are freelancers. Some of us own bigger companies. Some of us are full employees. Some of us are just contributors.<br>
 Really this is not important. How we act, how we put in value our visions, our ideas, our contrbution, our work, is just a matter of personal options.
@@ -61,11 +75,17 @@ Peoples (alphabetical order):
 
 
 
+
+
 ## ...The cluster c2 file...
+
+<!-- #FIXME review and then drop... -->
 
 Some people are not 'directly visible' here because they are employees to one of the partner. This does not mean that their contribution is minimized. Not at all. We can assure anybody that these people are
 as happy as they want. Is just their personal option how to work and contribute. They are treated like any other people of the team. There is no difference. By respecting our 'code of cunduit and conduct'
 eaach partner is responsible that these thongs to really happen as expected as as promised.
+
+
 
 
 
