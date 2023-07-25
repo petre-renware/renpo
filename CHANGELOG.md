@@ -35,8 +35,6 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
-* tbd... get GeTeCo PDF files from NAS (ref doc `resources.md` section "How to buy from RENware", search for `#TODO set right document "GTCo-RO.pdf"`)
-
 * tbd... Solutions: do that page (`solutions.md`)
 
 
@@ -47,6 +45,8 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * wip...
 
+* 230725piu_b updated `resources.md` page to access `GTCo-RO.pdf` document
+* 230725piu_a uploaded **General Terms & Conditions** as `doc_src/ready-made-docs/GTCo-RO.pdf`
 * 230724piu_f review, clean & finalized `about` page
 * 230724piu_e first review & clean `about` page, section "Overview"
 * 230724piu_d About: made a first *draft raw* page (`about.md`) content. Got from old content following pictures: `compass.jpg, people.jpg, reducing_conflict.png, success_people.jpg`
