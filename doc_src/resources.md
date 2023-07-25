@@ -30,11 +30,11 @@ The methodology is "flexible enough" to allow changes and liberty for innovation
 
 The process of buying **products** or **complex solutions** from RENware has some simple conditions that should be met.
 
-- **General Terms & Conditions** in relation with RENware Software Systems - [access documet here](ready-made-docs/GTCo-RO.pdf)
+- **General Terms & Conditions** in relation with RENware Software Systems, please [access document here](ready-made-docs/GTCo-RO.pdf)
 
 - If you decided for **a product** or **a solution** just make a call or send a message (e-mail, WhatsApp, SMS).
 
-- If you want resources for your own projects, please consult [SPRILI document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf)
+- If you want resources for your own projects, please [consult SPRILI document](ready-made-docs/RENware_SPRILI_Standard_Price_List_EN.pdf)
 
 
 
