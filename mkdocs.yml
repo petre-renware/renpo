@@ -6,12 +6,10 @@ copyright: 'Copyright (c) RENware Software Systems'
 nav:
     - Home: 'index.md'
     - Services: 'services.md'
-    - Solutions:
-        - Solutions: 'solutions.md'
-        #- ALPHA REN Integrator: 
-        #- COSANA: 'http://cosana.renware.eu'
-        #- PM Office: 'http://pmo.renware.eu'
-        #- USALAS: 'http://uslas.renware.eu'
+    - Solutions: 'solutions.md'
+        #FIXME_drop_after_copy_URL - COSANA: 'http://cosana.renware.eu'
+        #FIXME_drop_after_copy_URL- PM Office: 'http://pmo.renware.eu'
+        #FIXME_drop_after_copy_URL- USALAS: 'http://uslas.renware.eu'
     - Resources: 'resources.md'
     - About: 'about.md'
     - Contact: 'contact.md'
