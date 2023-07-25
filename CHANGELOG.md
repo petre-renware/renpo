@@ -35,8 +35,6 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
-* tbd... get GeTeCo PDF files from NAS (ref doc `resources.md` section "How to buy from RENware", search for `#TODO set right document "GTCo-RO.pdf"`)
-
 * tbd... Solutions: do that page (`solutions.md`)
 
 
