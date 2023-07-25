@@ -12,9 +12,9 @@
 
 * `docs/` - keep released portal files. Available on `publishing` branch.
 
-* `static-portal/` - keep current portal generation, development tests. Files are not guaranteed on `git` but only local clone.
+* `static_portal/` - keep current portal generation, development tests. Files are not guaranteed on `git` but only local clone.
 
-* `doc-src/` - keep all source document, pages, pictures, etc. Guaranteed on all working branches except `publishing` whixh is dedicated to GitHub releasing portal site
+* `doc_src/` - keep all source document, pages, pictures, etc. Guaranteed on all working branches except `publishing` whixh is dedicated to GitHub releasing portal site
 
 * `xxx` 
 
