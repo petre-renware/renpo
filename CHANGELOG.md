@@ -45,6 +45,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * wip...
 
+* 230725piu_g clean from `old_portal_content/` items used and that will be no more / never used in this variant of portal
 * 230725piu_f updated README document
 * 230725piu_c review, made some small fixes & cleaned `mkdocs.yml` of all `FIXME`s; published that version (up here)
 * 230725piu_b updated `resources.md` page to access `GTCo-RO.pdf` document
