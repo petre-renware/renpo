@@ -3,7 +3,10 @@
 ## Projrct data
 
 * code-name: `renpo`
-* p/n: 0000-0112
+* p/n: `0000-0112` (T2 class)
+
+
+
 
 ## Directories
 
