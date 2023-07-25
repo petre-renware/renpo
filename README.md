@@ -4,7 +4,7 @@
 
 * code-name: `renpo`
 * p/n: `0000-0112` (T2 class)
-* published URL: [www.renware.eu](http;//www.renware.eu)
+* published URL: [www.renware.eu](http://www.renware.eu/)
 
 
 
