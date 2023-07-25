@@ -30,6 +30,6 @@ Branch `publishing` is dedicated to GitHub publishing site action from directory
 
 ## Technical info
 
-* Site is of "static" type, generated using [`mkdocs` tool](www.mkdocs.org).
+* Site is of "static" type, generated using [`mkdocs` tool](http://www.mkdocs.org).
 
 * Site is published under `ww.renware.eu` URL using a DNS CNAME record, made available for GitHub too.
