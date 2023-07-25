@@ -7,6 +7,15 @@
 
 ## Directories
 
+* `docs/` keep released portal files. Available on `publishing` branch.
+
+* `xxx` 
+
+* `xxx` 
+
+* `xxx` 
+
+* `xxx` 
 
 
 
