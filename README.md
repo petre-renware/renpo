@@ -4,6 +4,7 @@
 
 * code-name: `renpo`
 * p/n: `0000-0112` (T2 class)
+* published URL: [www.renware.eu](http;//www.renware.eu)
 
 
 
@@ -32,4 +33,4 @@ Branch `publishing` is dedicated to GitHub publishing site action from directory
 
 * Site is of "static" type, generated using [`mkdocs` tool](http://www.mkdocs.org).
 
-* Site is published under `ww.renware.eu` URL using a DNS CNAME record, made available for GitHub too.
+* Site is published under `www.renware.eu` URL using a DNS CNAME record, made available for GitHub too.
