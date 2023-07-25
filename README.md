@@ -16,10 +16,11 @@
 
 * `doc_src/` - keep all source document, pages, pictures, etc. Guaranteed on all working branches except `publishing` whixh is dedicated to GitHub releasing portal site
 
-* `xxx` 
-
-* `xxx` 
+All other directories are used in current working process.
 
 
 
+## Branches
+
+All classic branches, `` ``
 
