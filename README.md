@@ -7,9 +7,9 @@
 
 ## Directories
 
-* `docs/` keep released portal files. Available on `publishing` branch.
+* `docs/` - keep released portal files. Available on `publishing` branch.
 
-* `xxx` 
+* `static-portal` - keep current portal generation, development tests. Files are not guaranteed on `git` but only local clone.
 
 * `xxx` 
 
