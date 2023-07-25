@@ -30,7 +30,7 @@ The methodology is "flexible enough" to allow changes and liberty for innovation
 
 The process of buying **products** or **complex solutions** from RENware has some simple conditions that should be met.
 
-- **General Terms & Conditions** in relation with RENware Software Systems - [access documet here](doc_src/ready-made-docs/GTCo-RO.pdf)
+- **General Terms & Conditions** in relation with RENware Software Systems - [access documet here](ready-made-docs/GTCo-RO.pdf)
 
 - (wip_page.md) <!-- #TODO set right document "GTCo-RO.pdf" -->
 
