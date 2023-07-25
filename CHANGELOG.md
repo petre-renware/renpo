@@ -38,12 +38,20 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 * tbd... Solutions: do that page (`solutions.md`)
 
 
-
-
-
-### wip... 5.0.1-beta all nav stable all pages acceptable (yymmdd...)
+### #NOTE_wip... 5.0.2-beta `solutions` page (yymmdd...)
 
 * wip...
+
+
+
+
+
+
+
+
+
+
+### 5.0.1-beta nav stable all pages except `solutions` (yymmdd...)
 
 * 230725piu_g clean from `old_portal_content/` items used and that will be no more / never used in this variant of portal
 * 230725piu_f updated README document
