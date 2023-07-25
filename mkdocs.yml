@@ -8,10 +8,10 @@ nav:
     - Services: 'services.md'
     - Solutions:
         - Solutions: 'solutions.md'
-        - ALPHA REN Integrator: 'http://arint.renware.eu'
-        - COSANA: 'http://cosana.renware.eu'
-        - PM Office: 'http://pmo.renware.eu'
-        - USALAS: 'http://uslas.renware.eu'
+        #- ALPHA REN Integrator: 
+        #- COSANA: 'http://cosana.renware.eu'
+        #- PM Office: 'http://pmo.renware.eu'
+        #- USALAS: 'http://uslas.renware.eu'
     - Resources: 'resources.md'
     - About: 'about.md'
     - Contact: 'contact.md'

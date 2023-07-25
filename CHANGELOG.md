@@ -32,15 +32,19 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
   https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
 ```
 
-
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
-* tbd... Solutions: do that page (`solutions.md`)
+
+
+
+
 
 
 ### 5.0.2-beta `solutions` page (#FIXMEyymmdd...)
 
 * wip...
+
+* 230725piu_i Solutions: page (`solutions.md`) in progress - last introduced `0000-0113` (`MAYAN-EDMS-MIMe`) following order from `PRF Projects Register File...xls`
 * 230725piu_h cleaned some "local only" files that are no more necessary
 
 
