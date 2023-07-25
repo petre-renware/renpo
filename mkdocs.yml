@@ -4,21 +4,17 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 
 nav:
-    - Home: 'index.md' #NOTE main entry at whole RENware Software Systems portal
+    - Home: 'index.md'
     - Services: 'services.md'
-    - Solutions: #TODO need to make a page like for services - see also index.md
+    - Solutions:
         - Solutions: 'solutions.md'
         - ALPHA REN Integrator: 'http://arint.renware.eu'
-        - COSANA: 'http://cosana.renware.eu' #TODO chk page
-        - PM Office: 'http://pmo.renware.eu' #TODO chk page
-        - USALAS: 'http://uslas.renware.eu' #TODO chk page
-    - Resources: #TODO need to make a page like for services - see also index.md
-        - Resources: 'resources.md'
-        - SDEVEN methodology: 'http://sdeven.renware.eu'
-        - Buy from RENware: 'buy_from_renware.md'
-        - Learning @ RENware: 'http://learning.renware.eu'
+        - COSANA: 'http://cosana.renware.eu'
+        - PM Office: 'http://pmo.renware.eu'
+        - USALAS: 'http://uslas.renware.eu'
+    - Resources: 'resources.md'
+    - About: 'about.md'
     - Contact: 'contact.md'
-    #- old_index: 'old_index.html' #FIXME drop me when finish
 
 
 
@@ -86,6 +82,7 @@ theme:
         - navigation.tabs.sticky
         - navigation.path
         - toc.integrate #NOTE integrate TOC in left navbar
+        #- navigation.footer #NOTE do not enable this. It will show "Next & Prev" links on footer, useless for company portal...
     palette:
         primary: light blue # see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ for other color options
     icon:
@@ -103,6 +100,17 @@ theme:
             example: fontawesome/solid/flask
             quote: fontawesome/solid/quote-left
 
+
+
+#NOTE first is for social sites RENware links and can add other data here
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/renware/
+      name: RENware on LinkedIn
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=100063714751973
+      name: RENware on Facebook
 
 
 

@@ -1,6 +1,9 @@
-# Lista competente
 
-## Limbaje de programare
+<!-- ![runners pict](pictures/runners_1280.jpg){ width="350" align=right } -->
+
+
+
+### Limbaje de programare (_en:_ programming languages)
 
 * Python (principal)
 * Java, Go, Rust, C, C++, Assembly (Intel x86)
@@ -8,7 +11,9 @@
 * Pascal, LISP, Fortran, Cobol
 * Ruby, Perl, PHP, Bash scripting
 
-## Frameworks - web based systems
+
+
+### Frameworks - web based systems
 
 * Flask
 * pywebio
@@ -20,7 +25,9 @@
 * Flask Login
 * web2py
 
-## Frameworks - data systems
+
+
+### Frameworks - data systems
 
 * Postgresql
 * MySQL & MariaDB
@@ -40,20 +47,27 @@
 * Mongo DB
 * ZoDB
 
-## Frameworks - multiprocessing and distributed systems
+
+
+### Frameworks - multiprocessing and distributed systems
 
 * Celery
 * RQ
 * Ray
 * Zookeeper
 
-## Frameworks - data visualize & analysis
+
+
+### Frameworks - data visualize & analysis
 
 * Plotly Dash
 * Pandas
 * Graphviz
+* Mathplotlib
 
-## General infrastructure systems
+
+
+### General infrastructure systems
 
 * VMWare
 * MaaS
@@ -66,15 +80,19 @@
 * Xen Project
 * KVM
 * Oracle VirtualBox
-* Ubuntu Server
+* Ubuntu, CentOS Server
 
-## Development environment management
+
+
+### Development environment management
 
 * make
 * virtualenv / venv
 * Poetry
 
-## ERP & Business Systems
+
+
+### ERP & Business Systems
 
 * Oracle Applications (business suite): Financials, Logistics, Process Manufacturing
 * SAP: Financials, Logistics, Costing, Learning System, CRM, Hybris, NetWeaver
