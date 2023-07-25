@@ -47,6 +47,7 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * wip...
 
+* 230725piu_a uploaded **General Terms & Conditions** as `doc_src/ready-made-docs/GTCo-RO.pdf`
 * 230724piu_f review, clean & finalized `about` page
 * 230724piu_e first review & clean `about` page, section "Overview"
 * 230724piu_d About: made a first *draft raw* page (`about.md`) content. Got from old content following pictures: `compass.jpg, people.jpg, reducing_conflict.png, success_people.jpg`
