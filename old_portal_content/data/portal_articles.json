@@ -1,0 +1,137 @@
+{
+    "_default": {},
+    "categories": {
+        "1": {
+            "id": "SWDSGNARCH",
+            "name": "Software Design & Architectures",
+            "section_seqord": 30
+        },
+        "2": {
+            "id": "EMB-MCU",
+            "name": "Embedded Systems & Microcontroller Units ",
+            "section_seqord": 40
+        },
+        "3": {
+            "id": "PM",
+            "name": "Project Management",
+            "section_seqord": 20
+        },
+        "4": {
+            "id": "COBAS",
+            "name": "First Steps in Computers",
+            "section_seqord": 10
+        },
+        "5": {
+            "id": "COARCH",
+            "name": "Computer Architectures",
+            "section_seqord": 50
+        },
+        "6": {
+            "id": "CONETW",
+            "name": "Computer Networks",
+            "section_seqord": 60
+        },
+        "7": {
+            "id": "SWIMPL",
+            "name": "Software Systems Implementation",
+            "section_seqord": 25
+        },
+        "8": {
+            "id": "SWALG",
+            "name": "Algorithms",
+            "section_seqord": 35
+        },
+        "9": {
+            "id": "101JR",
+            "name": "101 JR.new@IT.emp",
+            "section_seqord": 999
+        },
+        "10": {
+            "id": "DISYS",
+            "name": "Distributed Systems",
+            "section_seqord": 34
+        }
+    },
+    "articles": {
+        "1": {
+            "id": "ad5fb196-2779-4b40-9f24-6352017cf403",
+            "categories": ["PM", "SWIMPL"],
+            "title": "PROJECTS APPROACH IN SOFTWARE SYSTEMS IMLEMENTATION (part 1)",
+            "author": "Petre IORDANESCU",
+            "art_date": "2020/12",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "projects-approach-in-sw-implementations-part-1.pdf"
+        },
+        "2": {
+            "id": "e4174027-e163-4078-aecc-1e909f6a2766",
+            "categories": ["SWDSGNARCH"],
+            "title": "Think System Software Architectures For Future Easy Hardware Scaling",
+            "author": "Petre IORDANESCU",
+            "art_date": "2018/12",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "think system-architecture-4-future-hardware-scaling.pdf"
+        },
+        "3": {
+            "id": "3f9349be-0fcc-4dc7-abce-fffdf62f7bbb",
+            "categories": ["PM"],
+            "title": "PROJECT POC - HOW TO CALCULATE IT?",
+            "author": "Petre IORDANESCU",
+            "art_date": "2011/08",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "EN",
+            "content_link": "project_poc_how-to-calculate.pdf"
+        },
+        "4": {
+            "id": "bfda357c-cea9-409b-bfb8-5cf57e14ff19",
+            "categories": ["101JR"],
+            "title": "00a - 101-JR.new@IT.emp - introducere",
+            "author": "Petre IORDANESCU",
+            "art_date": "2020/01/1",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "00a-101-JR.new@IT.emp-introducere.pdf"
+        },
+        "5": {
+            "id": "06cd89f8-06fb-4d6b-8a7d-4ffbe7c04d0e",
+            "categories": ["101JR", "COBAS"],
+            "title": "00a - 101-JR.new@IT.emp - calculatorul",
+            "author": "Petre IORDANESCU",
+            "art_date": "2020/01/2",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "00b-101-JR.new@IT.emp-calculatorul.pdf"
+        },
+        "6": {
+            "id": "730bdbdc-4e96-4a3f-8889-fe2a51599644",
+            "categories": ["COARCH", "COBAS"],
+            "title": "Evolutia arhitecturilor calculatoarelor (1)",
+            "author": "Petre IORDANESCU",
+            "art_date": "2020/08",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "evoluția-arhitecturilor-calculatoarelor-(1).pdf"
+        },
+        "7": {
+            "id": "151407bb-9a97-4b68-a752-c9017a89f2a8",
+            "categories": ["DISYS", "SWALG"],
+            "title": "Ordering Raw Data and System Time for Read Only devices",
+            "author": "Petre IORDANESCU",
+            "art_date": "2019/12",
+            "copyright": "RENware",
+            "language": "RO",
+            "content_link": "Ordering-Raw-Data-and-System-Time.pdf"
+        },
+        "8": {
+            "id": "1367a325-4d43-48e4-80be-8eef327513a4",
+            "categories": ["COARCH", "COBAS"],
+            "title": "Evolutia arhitecturilor calculatoarelor (2)",
+            "author": "Petre IORDANESCU",
+            "art_date": "2021/01",
+            "copyright": "RENware, Petre Iordanescu PFA",
+            "language": "RO",
+            "content_link": "evoluția-arhitecturilor-calculatoarelor-(2).pdf"
+        }
+    }
+}
