@@ -1,0 +1,5 @@
+* files marked as `xxx *` can be deleted as information was was used or moved in `daraAPI`
+
+* the `portal * struct ...` is still kept becaise it can still give
+useful information ref content organization and structure in products page(s)
+
