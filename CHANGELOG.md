@@ -27,6 +27,8 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 ### #TODO ---- SHORT TERM ACTION PLAN
 
+* -#NOTE_IMP: to get a JSON file and just as file use `curl -O <numele_fisierui_generat> <URL_sursa>`
+
 * tbd... update contacts with "live Google map" as
 ```
   https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
