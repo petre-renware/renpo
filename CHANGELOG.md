@@ -36,7 +36,8 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 * tbd... -#NOTE there is a plugin to load / read JSON files
 
-
+* tbd... get datasheet for existing products (like PMO, PMF, USLAS, ...) and show rhem on solutions (see in old files directori for which of them...) then ...
+* tbd... ...then set something *for a comprehensive list of products & solutions visit `portoman.renware.eu`* which is a JSON generated **products catalog portal / page**
 
 
 
