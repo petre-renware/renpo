@@ -34,7 +34,12 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
   https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
 ```
 
-* tbd... -#NOTE there is a plugin to load / read JSON files
+* tbd... -#NOTE there is a plugin to load / read JSON files - CORRELATE WITH NEXT because you get GET it by executing request !!!
+* tbd... -#NOTE_NEW execution the python code in browser with (ref `https://pypi.org/project/markdown-exec/`):
+```python exec="on"
+print("Hello Petre!")
+```
+
 
 * tbd... **simplify solutions** by making something like product, solution categories (1st idea...), then...
 * ...then_tbd... get datasheet for existing products (like ARint, PMO, PMF, USLAS, ...) and show them on solutions *more like examples, platforms, frameworks* (see in old files directori for which of them...), then ...
@@ -44,9 +49,12 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 
 
-### 5.0.2-beta `solutions` page (#FIXMEyymmdd...)
+
+
+### 5.0.2-beta `solutions` page (#FIXME_wip... yymmdd...)
 
 * wip...
+* 230803piu_a installed `markdown-exec[ansi]` for python & bash execution inside markdown file (ref `https://pypi.org/project/markdown-exec/`)
 * 230728piu_a cleaned some of old portal content, JSON DATA files and let a README file in that location with TODO instructions
 * 230726piu_a got `old_portal_content\data` for JSON data ref REN products & solutions (also it is a JSON that contain how pages had content built from files)
 * 230725piu_i Solutions: page (`solutions.md`) in progress - last introduced `0000-0113` (`MAYAN-EDMS-MIMe`) following order from `PRF Projects Register File...xls`
