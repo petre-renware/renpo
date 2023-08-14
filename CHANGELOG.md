@@ -2,8 +2,6 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 **RENware Main Portal**
 
-* Last released version: #FIXME what was the last one?
-
 ***
 
 [TOC]
@@ -54,16 +52,13 @@ print("Hello Petre!")
 ### 5.0.2-beta `solutions` page (#FIXME_wip... yymmdd...)
 
 * wip...
+
+* ... 230814piu_a meke an empty page for *support* as `support.md`
 * 230803piu_a installed `markdown-exec[ansi]` for python & bash execution inside markdown file (ref `https://pypi.org/project/markdown-exec/`)
 * 230728piu_a cleaned some of old portal content, JSON DATA files and let a README file in that location with TODO instructions
 * 230726piu_a got `old_portal_content\data` for JSON data ref REN products & solutions (also it is a JSON that contain how pages had content built from files)
 * 230725piu_i Solutions: page (`solutions.md`) in progress - last introduced `0000-0113` (`MAYAN-EDMS-MIMe`) following order from `PRF Projects Register File...xls`
 * 230725piu_h cleaned some "local only" files that are no more necessary
-
-
-
-
-
 
 
 
