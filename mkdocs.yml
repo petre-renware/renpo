@@ -6,11 +6,13 @@ copyright: 'Copyright (c) RENware Software Systems'
 nav:
     - Home: 'index.md'
     - Services: 'services.md'
-    - Solutions: 'solutions.md'
+    - Solutions:
+        - Catalog: 'solutions.md'
         #FIXME_drop_after_copy_URL - COSANA: 'http://cosana.renware.eu'
         #FIXME_drop_after_copy_URL- PM Office: 'http://pmo.renware.eu'
         #FIXME_drop_after_copy_URL- USALAS: 'http://uslas.renware.eu'
     - Resources: 'resources.md'
+    - Support: 'support.md'
     - About: 'about.md'
     - Contact: 'contact.md'
 
