@@ -6,6 +6,9 @@
 
 # Solutions
 
+Here is a short list with some of company products and solutions. [Here is available the full **Company Catalog**](http://catalog.renware.eu).
+
+
 <!-- #FIXME drop @ final -->
 ![in progress document](pictures/under_maintenance.png){ width="300" }
 <br><br><br><br>
