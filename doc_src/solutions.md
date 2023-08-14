@@ -1,7 +1,7 @@
 
-<!-- #FIXME decide to change it or drop
+
 ![our values pict](pictures/our-values.jpg){ width="400" align=right }
--->
+
 
 
 # Solutions
