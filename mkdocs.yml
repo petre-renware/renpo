@@ -5,7 +5,12 @@ copyright: 'Copyright (c) RENware Software Systems'
 
 nav:
     - Home: 'index.md'
-    - Services: 'services.md'
+    - Services:
+        - Catalog: 'services.md'
+        - Buy from RENware: 
+
+(resources.md#how-to-buy-from-renware)
+
     - Solutions:
         - Catalog: 'solutions.md'
         #FIXME_drop_after_copy_URL - COSANA: 'http://cosana.renware.eu'
