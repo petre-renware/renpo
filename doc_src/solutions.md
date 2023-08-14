@@ -1,15 +1,13 @@
 
-<!-- #FIXME decide to change it or drop
+
 ![our values pict](pictures/our-values.jpg){ width="400" align=right }
--->
+
 
 
 # Solutions
 
-<!-- #FIXME drop @ final -->
-![in progress document](pictures/under_maintenance.png){ width="300" }
-<br><br><br><br>
-<!-- #FIXME drop @ final -->
+This page briefly present a short list with some of company products and solutions. [**The full Company Catalog can be accessed here**](http://catalog.renware.eu).
+
 
 ## ALPHA REN Integrator
 

@@ -20,27 +20,23 @@ hi<small>(c) 2020 - 2023 RENware Software Systems</small>
 
 
 
-## 5.0 RENpo on `mkdocs`
+## 5.0 RENware main portal as static solution
 
 
-### #TODO ---- SHORT TERM ACTION PLAN
+#### #TODO ---- SHORT TERM ACTION PLAN
 
 * -#NOTE_IMP: to get a JSON file and just as file use `curl -O <numele_fisierui_generat> <URL_sursa>`
 
 * tbd... update contacts with "live Google map" as
 ```
-  https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
+https://www.google.com/maps/place/RENware+Software+Systems/@44.4519464,26.0751612,17z/data=!4m14!1m7!3m6!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!2sRENware+Software+Systems!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz!3m5!1s0x40b2013b07bb7829:0x4462bb2d41149c9a!8m2!3d44.4519426!4d26.0777361!16s%2Fg%2F11lgxx22nz?entry=ttu
 ```
 
-* tbd... -#NOTE there is a plugin to load / read JSON files - CORRELATE WITH NEXT because you get GET it by executing request !!!
-* tbd... -#NOTE_NEW execution the python code in browser with (ref `https://pypi.org/project/markdown-exec/`):
+
+* tbd... -#NOTE_NEW execution the python code at mkdoks "compile" with `https://pypi.org/project/markdown-exec/` (use `pyodide` exec @ runtime on client browser):
 ```python exec="on"
 print("Hello Petre!")
 ```
-
-* tbd... **simplify solutions** by making something like product, solution categories (1st idea...), then...
-* ...then_tbd... get datasheet for existing products (like ARint, PMO, PMF, USLAS, ...) and show them on solutions *more like examples, platforms, frameworks* (see in old files directory for which of them...), then ...
-* ...then_tbd... set something *for a comprehensive list of products & solutions visit `catalog.renware.eu`* which is a JSON generated **products catalog portal / page**
 
 
 
@@ -50,8 +46,13 @@ print("Hello Petre!")
 
 ### 5.0.2-beta `solutions` page (#FIXME_wip... yymmdd...)
 
+* tbd... #TODO test 230814piu_c
+
 * wip...
 
+* 230814piu_c more items:
+    * solutions page, set as a brieft sample catalog and recommend *for full products & solutions catalog visit `catalog.renware.eu`*
+    * updated `mkdocs.yml` with nav entry to full catalog
 * 230814piu_b fix "How to buy from RENware" navigation entry byt linking directly to public portal (!-not necessarily the best option but works)
 * 230814piu_a more items:
     * made an empty page for *support* as `support.md`
