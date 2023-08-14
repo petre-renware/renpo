@@ -53,7 +53,9 @@ print("Hello Petre!")
 
 * wip...
 
-* ... 230814piu_a make an empty page for *support* as `support.md`
+* 230814piu_a more items:
+    * made an empty page for *support* as `support.md`
+    * updated 1st & 2nd navigation entries
 * 230803piu_a installed `markdown-exec[ansi]` for python & bash execution inside markdown file (ref `https://pypi.org/project/markdown-exec/`)
 * 230728piu_a cleaned some of old portal content, JSON DATA files and let a README file in that location with TODO instructions
 * 230726piu_a got `old_portal_content\data` for JSON data ref REN products & solutions (also it is a JSON that contain how pages had content built from files)
