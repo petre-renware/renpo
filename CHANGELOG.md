@@ -53,6 +53,7 @@ print("Hello Petre!")
 
 * wip...
 
+* 230814piu_b fix "How to buy from RENware" navigation entry byt linking directly to public portal (!-not necessarily the best option but works)
 * 230814piu_a more items:
     * made an empty page for *support* as `support.md`
     * updated 1st & 2nd navigation entries

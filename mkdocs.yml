@@ -7,13 +7,13 @@ nav:
     - Home: 'index.md'
     - Services:
         - Catalog: 'services.md'
-        - Buy from RENware: 'resources.md#how-to-buy-from-renware' #FIXME test me
+        - Buy from RENware: 'http://www.renware.eu/resources.html#how-to-buy-from-renware' #NOTE not necessarily the best option but works
     - Solutions:
         - Catalog: 'solutions.md'
         #FIXME_drop_after_copy_URL - COSANA: 'http://cosana.renware.eu'
         #FIXME_drop_after_copy_URL- PM Office: 'http://pmo.renware.eu'
         #FIXME_drop_after_copy_URL- USALAS: 'http://uslas.renware.eu'
-        - Buy from RENware: 'resources.md#how-to-buy-from-renware' #FIXME test me
+        - Buy from RENware: 'http://www.renware.eu/resources.html#how-to-buy-from-renware' #NOTE not necessarily the best option but works
     - Resources: 'resources.md'
     - Support: 'support.md'
     - About: 'about.md'
