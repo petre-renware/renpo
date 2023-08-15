@@ -46,12 +46,11 @@ print("Hello Petre!")
 
 ### 5.0.2-beta `solutions` page (#FIXME_wip... yymmdd...)
 
-* tbd... #TODO test 230814piu_c
-
 * wip...
 
+* 230815piu_a test, review & update 230814piu_c - made brief recommendations in `solutions.md`
 * 230814piu_c more items:
-    * solutions page, set as a brieft sample catalog and recommend *for full products & solutions catalog visit `catalog.renware.eu`*
+    * solutions page, set as a brief sample catalog and recommend *for full products & solutions catalog visit `catalog.renware.eu`*
     * updated `mkdocs.yml` with nav entry to full catalog
 * 230814piu_b fix "How to buy from RENware" navigation entry byt linking directly to public portal (!-not necessarily the best option but works)
 * 230814piu_a more items:
